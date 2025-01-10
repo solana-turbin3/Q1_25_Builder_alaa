@@ -1,0 +1,9 @@
+[submodule "ts-prereq"]
+	path = ts-prereq
+	url = https://github.com/AlaaZorkane/turbin-ts-prereq
+[submodule "ts-prereq-web3js-v2"]
+	path = ts-prereq-web3js-v2
+	url = https://github.com/AlaaZorkane/turbin3-ts-prereq-v2
+[submodule "rust-prereq"]
+	path = rust-prereq
+	url = https://github.com/AlaaZorkane/turbin3-rust-prereq
