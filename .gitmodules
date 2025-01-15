@@ -7,3 +7,9 @@
 [submodule "rust-prereq"]
 	path = rust-prereq
 	url = https://github.com/AlaaZorkane/turbin3-rust-prereq
+[submodule "wba-ts"]
+	path = wba-ts
+	url = https://github.com/AlaaZorkane/wba-ts
+[submodule "wba-rs"]
+	path = wba-rs
+	url = https://github.com/AlaaZorkane/wba-rs
