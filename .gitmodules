@@ -16,3 +16,6 @@
 [submodule "kasbah-capstone"]
 	path = kasbah-capstone
 	url = https://github.com/AlaaZorkane/kasbah-capstone
+[submodule "vault"]
+	path = vault
+	url = git@github.com:AlaaZorkane/turbin3-vault.git

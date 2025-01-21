@@ -5,6 +5,7 @@
     "source.fixAll.biome": "explicit"
   },
   "rust-analyzer.linkedProjects": [
-    "./kasbah-capstone/Cargo.toml"
+    "./kasbah-capstone/Cargo.toml",
+    "./vault/Cargo.toml"
   ]
 }
