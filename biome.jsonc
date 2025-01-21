@@ -26,7 +26,8 @@
       },
       "correctness": {
         "noUndeclaredDependencies": "off",
-        "noNodejsModules": "off"
+        "noNodejsModules": "off",
+        "useImportExtensions": "off"
       },
       "style": {
         "noNamespaceImport": "off"
