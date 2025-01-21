@@ -21,3 +21,4 @@ git submodule update --remote
 - ✅ [`rust-prereq`](https://github.com/alaazorkane/turbin3-rust-prereq): Rust pre-requisites.
 - 🚧 [`wba-ts`](https://github.com/alaazorkane/wba-ts): Typescript classwork (aka`./solana-starter/ts`)
 - 🚧 [`wba-rs`](https://github.com/alaazorkane/wba-rs): Rust classwork (aka `./solana-starter/rs`)
+- 🚧 [`vault`](https://github.com/alaazorkane/turbin3-vault): Vault program.
