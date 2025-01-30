@@ -22,3 +22,6 @@
 [submodule "escrow"]
 	path = escrow
 	url = git@github.com:AlaaZorkane/turbin-escrow.git
+[submodule "nft-staking"]
+	path = nft-staking
+	url = git@github.com:AlaaZorkane/turbin-nft-staking.git
