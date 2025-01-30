@@ -8,6 +8,7 @@
     "./kasbah-capstone/Cargo.toml",
     "./vault/Cargo.toml",
     "./escrow/Cargo.toml",
-    "./marketplace/Cargo.toml"
+    "./marketplace/Cargo.toml",
+    "./nft-staking/Cargo.toml"
   ]
 }
