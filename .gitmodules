@@ -25,3 +25,6 @@
 [submodule "nft-staking"]
 	path = nft-staking
 	url = git@github.com:AlaaZorkane/turbin-nft-staking.git
+[submodule "amm"]
+	path = amm
+	url = git@github.com:AlaaZorkane/amm.git
